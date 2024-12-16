@@ -2,6 +2,12 @@
 
 ## This is a practice space for working with markdown 
 
+- [ ] Turn on Github pages
+- [ ] This item is complete
+- [ ] This item is not complete 
+
+
+
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
